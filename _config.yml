@@ -34,41 +34,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Gidfgdfg
-    description                           : Designed for dfgdfg Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : تنوع في الخدمات
+    description                           : يضم ارسال الكثير من الخدمات ويمكن اضافة اي خدمة جديدة 
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhfdgfdgdfg
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : التصميم
+    description                           : تم تصميم التطبيقات بتصميم رائع وسهل الاستخدام مع امكانية اغلاق التطبيق بكلمة سر وخدمات اخرى.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Vidfdddddddg
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : توصيل سريع وامن
+    description                           : نهتم بتوصيل كافة طلباتك باقصى سرعة واامن طريقة لاي مكان
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : تحديث مستمر وفوري
+    description                           : تتم تحديث بيانات التطبيق بشكل مباشر وسريع مع وصول اشعارات واتنبيهات للتطبيق .
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : تطبيقات مختلفة
+    description                           : يوجد تطبيق لكل نوع مستخدم من مقدم خدمة وعميل ومندوب توصيل
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : تميز الان مع ارسال
+    description                           : يمكن لاي مقدم خدمة واي محل بكافة انواعها ان يصبح من خدمات ارسال
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Offline
+    description                           : يمكنك تصفح التطبيق دون الحاجة الى انترنت بعد اول مرة فتح وتحميل للبيانات.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : دعم فني
+    description                           : يمكنك التواصل مع الدعم الفني وادارة النظام عبر دردشة مباشرة داخل التطبيق او عبر وسائل اخرى
+    fontawesome_icon_name                 : envelope
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : انظم الى فريق ارسال
+    description                           : يمكنك ان تصبج مندوب توصيل لارسال ولايتطلب منك الا توفير وسيلة توصيل مثل دراجة نارية او هوائية او غيرها
+    fontawesome_icon_name                 : group
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
