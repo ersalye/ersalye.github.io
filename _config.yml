@@ -10,23 +10,23 @@ presskit_download_link                    : https://ersalye.github.io.com       
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : /assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : dsghfdg                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : freee                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Wrfdgdsg your app.
+app_name                                  : ارسال للتوصيل                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : تطلبيقات ارسال                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : مع ارسال طلبك بين يديدك .
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emfffffffffil gggggيgggggg                                
+your_name                                 : ارسال                                
 your_link                                 : https://ersalye.github.io.com                     
-your_city                                 : Copenhfagen                                
+your_city                                 : Yemen                                
 email_address                             : eng.dev.ezz@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : eng.dev.ezz@gmail.com
 youtube_username                          :
 
 
