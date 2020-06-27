@@ -68,7 +68,7 @@ features                                  :
 
   - title                                 : انظم الى فريق ارسال
     description                           : يمكنك ان تصبج مندوب توصيل لارسال ولايتطلب منك الا توفير وسيلة توصيل مثل دراجة نارية او هوائية او غيرها
-    fontawesome_icon_name                 : group
+    fontawesome_icon_name                 : truck
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
