@@ -14,6 +14,6 @@ include_in_header: true
 
 | **تطبيق العميل:**  | **مقدم الخدمة/مندوب التوصيل:**   |
 | ------------- | ------------- |
-| [![google-play-badge](/assets/playstore.png)](http://ersal.kingtec.org/ersal.apk)  | [![google-play-badge](/assets/playstore.png)](/apps/seller.apk)  |
+| [![google-play-badge](/assets/playstore.png)](/apps/ersal.apk)  | [![google-play-badge](/assets/playstore.png)](/apps/seller.apk)  |
 
 
