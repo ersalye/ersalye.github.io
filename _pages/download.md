@@ -14,6 +14,6 @@ include_in_header: true
 
 | **تطبيق العميل:**  | **مقدم الخدمة/مندوب التوصيل:**   |
 | ------------- | ------------- |
-| [![google-play-badge](/assets/playstore.png)](/apps/ersal.apk)  | [![google-play-badge](/assets/playstore.png)](/apps/seller.apk)  |
+| <a id="raw-url" target="_blank" href="http://ersalye.github.io/apps/ersal.apk"><img src="http://ersalye.github.io/assets/playstore.png" /></a>  | <a id="raw-url" target="_blank" href=""https://raw.githubusercontent.com/ersalye/ersalye.github.io/master/apps/seller.apk"><img src="http://ersalye.github.io/assets/playstore.png" /></a> |
 
 
